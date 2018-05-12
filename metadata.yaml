@@ -1,0 +1,28 @@
+_repo: The-Hurricane-GuideStorm-With-Atmospheric-Waves._18534
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Birt, William Radcliff
+    birthdate: 1804
+    deathdate: 1881
+    gutenberg_agent_id: '8093'
+    url: http://www.gutenberg.org/2009/agents/8093
+    wikipedia: http://en.wikipedia.org/wiki/William_Radcliffe_Birt
+description: ''
+gutenberg_issued: '2006-06-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18534'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Storms'
+- !lcc 'QC'
+title: "The Hurricane Guide\r\nBeing an Attempt to Connect the Rotary Gale or Revolving\
+  \ Storm with Atmospheric Waves."
+url: http://www.gutenberg.org/ebooks/18534
